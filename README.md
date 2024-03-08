@@ -1,0 +1,4 @@
+- 👋 Salut, moi c'est Clément
+- 👀 Mes hobbies sont : l'informatique, l'électronique, la mécanique et le sport.
+- 🌱 Actuellement : Licence Informatique (2-ème année)
+- 📫 clementbessieres.pro@gmail.com
